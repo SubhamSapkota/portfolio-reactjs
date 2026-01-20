@@ -34,21 +34,21 @@ From managing infrastructure to supporting users and developing web applications
         </div>
 
         <button className="button i-button"> <a
-  href="Subham Sapkota CV.pdf"
+  href="Subham Sapkota CV.pdf"  target="_blank"
 >
   Hire me
 </a></button>
         <div className="i-icons">
           <a href="https://github.com/subhamsapkota">
-          <img src={Github} alt="" />
+          <img src={Github} alt="" /> target="_blank"
           </a>
           
           <a href="https://www.linkedin.com/in/subham-sapkota-92a298265/">
-          <img src={LinkedIn} alt="" />
+          <img src={LinkedIn} alt="" /> target="_blank"
           </a>
           
           <a href="https://www.instagram.com/lsubhaml/">
-          <img src={Instagram} alt="" />
+          <img src={Instagram} alt="" /> target="_blank"
           </a>
           
         </div>
