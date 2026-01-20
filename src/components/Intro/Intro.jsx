@@ -28,12 +28,16 @@ const Intro = () => {
         <div className="i-name">
         <span style={{ color: darkMode ? "white" : "" }}>Hey! I am</span>
           <span>Subham Sapkota</span>
-          <span style={{ color: darkMode ? "white" : "" }}>An Aspiring MERN Stack developer with a passion for web development.
-            I have completed my training as a Full Stack Web Developer at Deerwalk Training Center and I am eager to apply my skills to a challenging role in a dynamic organization.
-          </span>
+          <span style={{ color: darkMode ? "white" : "" }}> I’m a Bachelor’s graduate with professional experience as a System Admin, Technical & Software Support Specialist, and Administrative Officer, backed by MERN Stack certification.
+
+From managing infrastructure to supporting users and developing web applications, I bring adaptability and reliability to every role.          </span>
         </div>
 
-        <button className="button i-button">Hire Me</button>
+        <button className="button i-button"> <a
+  href="/Subham_Sapkota_Resume.pdf"
+>
+  Hire me
+</a></button>
         <div className="i-icons">
           <a href="https://github.com/subhamsapkota">
           <img src={Github} alt="" />
