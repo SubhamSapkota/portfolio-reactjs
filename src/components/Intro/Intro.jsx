@@ -70,7 +70,7 @@ From managing infrastructure to supporting users and developing web applications
           whileInView={{ left: "68%" }}
           transition={transition}
           className='floating-div'>
-          <FloatingDiv image={Crown} txt1='Software Support' txt2='System Admin'/>
+          <FloatingDiv image={Crown} txt1='Software Support,' txt2='System Admin'/>
         </motion.div>
 
         <motion.div
@@ -80,7 +80,7 @@ From managing infrastructure to supporting users and developing web applications
           style={{top:"18rem", left:"0rem"}}
           className='floating-div'
           >
-          <FloatingDiv image={thumbup} txt1='Technical Support' txt2='Web Developer, SEO'/>
+          <FloatingDiv image={thumbup} txt1='Technical Support,' txt2='Web Developer, SEO'/>
         </motion.div>
       {/* blur divs */}
       <div className="blur" style={{background: "rgb(238 210 255)"}}></div>
