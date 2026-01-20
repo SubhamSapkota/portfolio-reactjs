@@ -39,15 +39,15 @@ From managing infrastructure to supporting users and developing web applications
   Hire me
 </a></button>
         <div className="i-icons">
-          <a href="https://github.com/subhamsapkota" target="_blank">
+          <a href="https://github.com/subhamsapkota" >
           <img src={Github} alt="" />
           </a>
           
-          <a href="https://www.linkedin.com/in/subham-sapkota-92a298265/" target="_blank">
+          <a href="https://www.linkedin.com/in/subham-sapkota-92a298265/" >
           <img src={LinkedIn} alt="" /> 
           </a>
           
-          <a href="https://www.instagram.com/lsubhaml/" target="_blank">
+          <a href="https://www.instagram.com/lsubhaml/" >
           <img src={Instagram} alt="" />
           </a>
           
