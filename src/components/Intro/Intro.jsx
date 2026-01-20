@@ -34,7 +34,7 @@ From managing infrastructure to supporting users and developing web applications
         </div>
 
         <button className="button i-button"> <a
-  href="/Subham_Sapkota_Resume.pdf"
+  href="/Subham Sapkota CV.pdf"
 >
   Hire me
 </a></button>
